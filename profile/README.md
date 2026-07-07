@@ -1,15 +1,24 @@
 # uk-agents
 
-Open-source plugins and agent tooling for UK professionals. Built by [Paul Boucherat](https://github.com/paulieb89) at [BOUCH](https://bouch.dev).
+Production-grade AI agents, workflows, and infrastructure.
 
-## Repos
+We build and operate Eve-native agents, portable Agent Skills, MCP integrations, evaluation systems, and vertical products for real-world work.
 
-- **[uk-legal-plugins](https://github.com/uk-agents/uk-legal-plugins)** — slimmed-down UK legal plugin distribution covering employment, commercial, corporate, IP, privacy, product, regulatory, AI governance, litigation, legal clinic, and law student workflows. Extracted from `claude-for-legal-uk` for easier installation.
+## What lives here
 
-- **[claude-for-legal-uk](https://github.com/uk-agents/claude-for-legal-uk)** — UK-focused fork of [`anthropics/claude-for-legal`](https://github.com/anthropics/claude-for-legal), with reference agents, skills, connectors, and managed-agent cookbooks.
+- **Agent infrastructure:** shared standards, coordination services, templates, and runtime integrations
+- **Agent quality:** eval harnesses, test fixtures, security controls, and evidence-backed release practices
+- **Open-source tooling:** reusable skills, plugins, MCP servers, and developer utilities
+- **Products and GTMs:** focused agent systems for legal, business operations, creators, and other professional workflows
 
-## Related
+## Operating principles
 
-Related MCP servers — case law, legislation, Hansard, Companies House, HMLR, GOV.UK, FOI, planning, property, due diligence, and P6 — live at [github.com/paulieb89](https://github.com/paulieb89).
+- Eve agents are first-class applications
+- Agent Skills are portable, load-on-demand procedures
+- MCP provides interoperable tools and resources
+- GitHub records versioned desired state
+- Production actions are authenticated, bounded, resumable, and observable
+
+Built by [Paul Boucherat](https://github.com/paulieb89) at [BOUCH](https://bouch.dev).
 
 Contact: paul@bouch.dev
